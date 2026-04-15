@@ -1,15 +1,14 @@
 Mole in a hole <br>
 
 __Description:__ <br>
-It's a game where you play as a mole running away and hiding from the radioactive fog since the "disaster". You encounter mutant slimes, bats that track you, pointy pointy spikes, and of course the radioactive fog fallout.<br>
+Mole in a hole is a game where you play as a mole running away from poisonous fog which was resulted from the "disaster". Avoid cave creatures, pointy spikes, chain balls and of course the poisonous fog.<br>
 You can play it here!  
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓  
 https://lima6.itch.io/mole-in-a-hole <br>
 __controls:__  
-- WASD or arrow keys to move and jump
-- alternatively space bar to jump
-- click to break blocks and hit enemies
-- alternatively x and arrow keys to aim to break blocks  + hit enemies  <br>
+- WASD or arrow keys to move
+- Press the space bar to jump
+- Press X to break blocks and hit enemies <br>
 __images:__ <br>
 Thumbnail: <br>
 
